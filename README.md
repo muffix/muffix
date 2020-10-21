@@ -72,7 +72,7 @@ The blog post describes the problem and in an addendum how I finally found the r
   thread-safe and in a rare race condition could return the same key for two scanners which meant that one overwrote
   the other's results. Bosun had incomplete data and the alert went into an unknown state, paging the on-call engineer.
 
-  The unspectacular fix can be seen in OpenTSDB/opentsdb#1754.
+  The unspectacular fix can be seen in [OpenTSDB/opentsdb#1754](https://github.com/OpenTSDB/opentsdb/pull/1754).
 </details>
 
 👉 [The problem that wasn’t there — and the Bosun alerts that were]

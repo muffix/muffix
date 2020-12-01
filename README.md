@@ -1,6 +1,6 @@
 Hi. 👋 
 
-I'm a Senior Backend Engineer with [Personio](https://www.personio.com), based in Munich, Germany. 🥨 [Skyscanner](https://www.skyscanner.net) alumnus.
+I'm a Software Engineer with [Datadog](https://www.datadoghq.com), based in Munich, Germany. 🥨 Ex-[Skyscanner](https://www.skyscanner.net).
 
 ## Find me on these networks
 

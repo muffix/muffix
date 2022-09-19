@@ -35,6 +35,16 @@ I'm a Software Engineer with [Datadog](https://www.datadoghq.com), based in Muni
   </a>
 </p>
 
+## Buy me a coffee
+
+If you found any of my work useful, you might want to consider buying me a coffee.
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/muffix" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+  </a>
+</p>
+
 ## Blog posts
 
 I occasionally write engineering blog posts. Sometimes my colleagues blog about our work, too.
